@@ -5,5 +5,4 @@ Find nearest places (tourist attraction , park , hotel ,restaurant and etc ..) a
 <br><Br>
 now open your telegram and search @imaprobot !
 <br><br>
-we are going to share imaprobot source soon !
 
